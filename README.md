@@ -15,7 +15,9 @@ Welcome to my GitHub repository! This repository serves as a digital portfolio s
 
 - 🎓 Bachelor of Engineering in Computer Science  
    Prof. Ram Meghe Institute of Technology & Research, Badnera-Amravati
+
   GPA: 8
+
   Year: 2020
 
 ## Work Experience
