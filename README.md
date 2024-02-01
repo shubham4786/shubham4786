@@ -37,12 +37,15 @@ September 2022 - September 2023
 ## Projects
 
 - [Vendor Hub](https://vendor-hub-75wt.vercel.app/)
+
 - [Sound Cloud Clone](https://sound-cloud-clone-react.vercel.app/)
 <!-- : A social development environment for front-end designers and developers. -->
 - [SpaceX Launch Dashboard](https://spacex-launch-dashboard-three.vercel.app/)
+
 - [LinkedIn Clone](https://linked-in-clone-react-project-3epg7pmhvtc0.vercel.app/)
 <!-- : A simple to-do application with item management features. -->
 - [Trip Web](https://trip-web123.netlify.app/)
+
 - [Quote Generator](https://quotes-generator987.netlify.app/)
 <!-- : An app to search for specific recipes. -->
 - [Task Manager App](https://taskmngerapp.netlify.app/)
